@@ -1,0 +1,11 @@
+h3 {
+    font-family: "BantoDemo", sans-serif;
+    font-size: 78px;
+    font-style: italic;
+    font-weight: 500;
+    letter-spacing: 1rem;
+    line-height: 100px;
+    text-transform: none;
+    color: #101010;
+    padding-bottom: 15px;
+};
